@@ -10,10 +10,10 @@ Ce guide explique comment générer une paire de clés GPG, partager sa clé pub
 - Système : Linux (Ubuntu ou dérivé)
 - GPG installé : \`gnupg2\`
 
-\`\`\`bash
+```bash
 sudo apt update
 sudo apt install gnupg2
-\`\`\`
+```
 
 ---
 
